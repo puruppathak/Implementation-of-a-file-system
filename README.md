@@ -16,11 +16,7 @@ Suggestion to start:
 http://sourceforge.net/apps/mediawiki/fuse/index.php?title=Hello_World [3]
 - Understand this chart: http://en.wikipedia.org/wiki/File:FUSE_structure.svg [4]
 - Read FUSE APIs and start implementation.
-- You are free to make any assumption to get the task done however be sure to make it clear in your report.
-- You could use any language for this project.
+
+
 
  
-- What to submit:
-+ A report describing how you implement the filesystem and how to build/run it. All your assumptions and design should be made clear in the report.
-+ Source code of the filesystem. All dependency libraries (if any) should be in the same directory of the source code.
-
